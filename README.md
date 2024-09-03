@@ -12,7 +12,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=suraj-maurya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center" style="display: grid; grid-template-columns: 35% 35%; gap: 10px; height: 195px;">
+<div align="center" style="display: grid; grid-template-columns: 25% 25%; gap: 15px; height: 195px;">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="height: 100%; object-fit: cover;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="height: 100%; object-fit: cover;">
 </div>
