@@ -12,7 +12,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=suraj-maurya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center" style="display: flex; gap: 15px;">
+<div align="center" style="display: flex; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="object-fit: cover;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="object-fit: cover;">
 </div>
