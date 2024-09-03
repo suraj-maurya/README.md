@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Suraj Maurya, an IoT Enthusiast 🌐
 
-🔭 I’m currently working as Embedded Firmware development <br>🌱 I’m currently learning ESP-IDF<br>💬 Ask me about Internet of Things<br>
+🔭 I’m currently working on Embedded Firmware development <br>🌱 I’m currently learning ESP-IDF<br>💬 Ask me about Internet of Things<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-surajmaurya-) 
