@@ -27,4 +27,3 @@
 <div style="width: 100%;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%; object-fit: contain;">
 </div>
-![]()
