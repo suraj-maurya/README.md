@@ -12,7 +12,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=suraj-maurya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center" style="display: grid; grid-template-columns: 0.5fr 0.5fr; gap: 0px;"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false"> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false"> </div>
+<div align="center" style="display: grid; grid-template-columns: 49% 49%; gap: 10px; height: 195px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="height: 100%; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="height: 100%; object-fit: cover;">
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
