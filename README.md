@@ -23,7 +23,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 350%; height: 300px;  object-fit: contain;">
 </div>
 
-### ✍️ Random Dev Quote
 <div style="width: 100%;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%; object-fit: contain;">
 </div>
