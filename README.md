@@ -18,8 +18,8 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-<div style="width: 100%;height: 200px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%; object-fit: contain;">
+<div style="width: 100%;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%; height: 300px; object-fit: contain;">
 </div>
 
 ### ✍️ Random Dev Quote
