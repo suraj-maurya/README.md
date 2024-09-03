@@ -14,8 +14,8 @@
 
 ### GitHub Stats
 <div align="center" style="display: flex; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%;object-fit: cover;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="width: 49%; height: 400px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%; height: 250px;object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="width: 49%; height: 250px; object-fit: cover;">
 </div>
 
 ### 🔝 Top Contributed Repo
