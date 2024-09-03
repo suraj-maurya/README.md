@@ -17,8 +17,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="height: 100%; object-fit: cover;">
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="width: 100%;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 100%; object-fit: contain;">
+</div>
+
+### ✍️ Random Dev Quote
+<div style="width: 100%;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width: 100%; object-fit: contain;">
+</div>
+![]()
