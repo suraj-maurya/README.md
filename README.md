@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm Suraj Maurya, an IoT Enthusiast 🌐
 <br>
-<img align="right" alt="webdev" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0NDFtOW1hOGJwazQ4MTdiMnExM2l4aGpzOHJxemNkam0xbmRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14gxbEtCfIqdnG/giphy.webp">
-
 🔭 I’m currently working on Embedded Firmware development <br>🌱 I’m currently learning ESP-IDF<br>💬 Ask me about Internet of Things<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false)
+<img align="right" alt="webdev" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDR0NDFtOW1hOGJwazQ4MTdiMnExM2l4aGpzOHJxemNkam0xbmRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14gxbEtCfIqdnG/giphy.webp">
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=suraj-maurya&icon=0&color=0)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-surajmaurya-) 
 # 💻 Tech Stack:
