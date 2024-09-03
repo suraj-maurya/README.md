@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there! 👋 I'm Suraj Maurya, an IoT Enthusiast 🌐</h1>
+<h1 align="center">Hi there! 👋 I'm Suraj Maurya</h1>
 
 🔭 I’m currently working on Embedded Firmware development <br>🌱 I’m currently learning ESP-IDF<br>💬 Ask me about Internet of Things <br><br>
 
