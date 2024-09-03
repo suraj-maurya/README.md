@@ -15,12 +15,12 @@
 ### GitHub Stats
 <div align="center" style="display: flex; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=suraj-maurya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%;object-fit: cover;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="width: 49%; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-maurya&theme=shadow_blue&hide_border=false" style="width: 49%; height: 200px; object-fit: cover;">
 </div>
 
 ### 🔝 Top Contributed Repo
 <div style="width: 100%;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 350%; height: 300px; height: 200px; object-fit: contain;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=suraj-maurya&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 350%; height: 300px;  object-fit: contain;">
 </div>
 
 ### ✍️ Random Dev Quote
